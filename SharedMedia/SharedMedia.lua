@@ -154,6 +154,8 @@ LSM:Register(MediaType_FONT, "WenQuanYi Zen Hei", [[Interface\AddOns\SharedMedia
 LSM:Register(MediaType_FONT, "X360", [[Interface\AddOns\SharedMedia\Media\Fonts\X360.ttf]], ruRU + western)
 LSM:Register(MediaType_FONT, "Yanone Kaffeesatz Regular", [[Interface\AddOns\SharedMedia\Media\Fonts\YanoneKaffeesatzRegular.ttf]])
 LSM:Register(MediaType_FONT, "Yellowjacket", [[Interface\AddOns\SharedMedia\Media\Fonts\Yellowjacket.ttf]])
+LSM:Register(MediaType_FONT, "liwalshUI", [[Interface\AddOns\SharedMedia\Media\Fonts\liwalshUI.ttf]], ruRU + western)
+LSM:Register(MediaType_FONT, "SFUI Condensed Bold", [[Interface\AddOns\SharedMedia\Media\Fonts\SFUIDisplayCondensed-Bold.ttf]], ruRU + western)
 
 -- --------------
 -- STATUSBAR (120)
@@ -279,6 +281,8 @@ LSM:Register(MediaType_STATUSBAR, "Water", [[Interface\AddOns\SharedMedia\Media\
 LSM:Register(MediaType_STATUSBAR, "Wglass", [[Interface\AddOns\SharedMedia\Media\Statusbar\Wglass]])
 LSM:Register(MediaType_STATUSBAR, "Wisps", [[Interface\AddOns\SharedMedia\Media\Statusbar\Wisps]])
 LSM:Register(MediaType_STATUSBAR, "Xeon", [[Interface\AddOns\SharedMedia\Media\Statusbar\Xeon]])
+LSM:Register(MediaType_STATUSBAR, "ToxiUIClean", [[Interface\AddOns\SharedMedia\Media\Statusbar\ToxiUI-clean]])
+LSM:Register(MediaType_STATUSBAR, "Flatt", [[Interface\AddOns\SharedMedia\Media\Statusbar\Flatt]])
 
 -- -----------
 -- SOUNDS (24)
